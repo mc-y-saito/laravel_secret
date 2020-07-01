@@ -1,0 +1,22 @@
+.error-box {
+    color: red;
+}
+
+. info-box {
+    color: green;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td {
+    padding: 5 px;
+}
+
+li>label: first-child {
+    width: 170 px;
+    margin-right: 20 px;
+    float: left;
+}
